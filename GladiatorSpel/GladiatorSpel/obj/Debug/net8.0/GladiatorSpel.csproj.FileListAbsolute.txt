@@ -1,0 +1,17 @@
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\bin\Debug\net8.0\GladiatorSpel.exe
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\bin\Debug\net8.0\GladiatorSpel.deps.json
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\bin\Debug\net8.0\GladiatorSpel.runtimeconfig.json
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\bin\Debug\net8.0\GladiatorSpel.runtimeconfig.dev.json
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\bin\Debug\net8.0\GladiatorSpel.dll
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\bin\Debug\net8.0\GladiatorSpel.pdb
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.AssemblyInfoInputs.cache
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.AssemblyInfo.cs
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.csproj.CoreCompileInputs.cache
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.sourcelink.json
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.dll
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\refint\GladiatorSpel.dll
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.pdb
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.genruntimeconfig.cache
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\ref\GladiatorSpel.dll
+C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\Gladiato.975A00D1.Up2Date

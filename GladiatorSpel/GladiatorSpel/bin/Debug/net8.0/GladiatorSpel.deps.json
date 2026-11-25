@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GladiatorSpel/1.0.0": {
+        "runtime": {
+          "GladiatorSpel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GladiatorSpel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
