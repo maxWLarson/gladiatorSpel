@@ -15,3 +15,11 @@ C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\
 C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.genruntimeconfig.cache
 C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\ref\GladiatorSpel.dll
 C:\Users\larso\source\repos\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\Gladiato.975A00D1.Up2Date
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.AssemblyInfoInputs.cache
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.AssemblyInfo.cs
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.csproj.CoreCompileInputs.cache
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.sourcelink.json
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.dll
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\refint\GladiatorSpel.dll
+C:\Users\max.wilhelmsson1\Godot projects\gladiatorSpel\GladiatorSpel\GladiatorSpel\obj\Debug\net8.0\GladiatorSpel.pdb
